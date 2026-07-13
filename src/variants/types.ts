@@ -139,6 +139,7 @@ export enum VariantKey {
   nackgammon = 'nackgammon',
   abalone = 'abalone',
   grandAbalone = 'grandabalone',
+  dohyo = 'dohyo',
   international = 'international',
   antidraughts = 'antidraughts',
   breakthrough = 'breakthrough',
